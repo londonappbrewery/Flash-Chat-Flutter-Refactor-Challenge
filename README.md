@@ -24,6 +24,6 @@ The ```TextField``` for entering the email (and password) is heavily styled by t
 
 * In the ```constants.dart``` create a new ```const``` called ```kTextFieldDecoration```. Set this constant equal to the ```InputDecoration``` used to style the email and password fields. 
 
-* Make use of the ```kTextFieldDecoration``` on the ```registration_screen.dart``` and ```login_screen.dart```
+* Make use of the ```kTextFieldDecoration``` on the ```registration_screen.dart``` and ```login_screen.dart```.
 
 *Hint*: Vary the ```hintText``` using ```.copyWith()```. 
